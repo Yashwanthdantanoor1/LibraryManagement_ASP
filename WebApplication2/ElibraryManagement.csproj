@@ -67,6 +67,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="pages\books\b1.jpg" />
+    <Content Include="pages\books\b2.jpg" />
+    <Content Include="pages\books\b3.jpg" />
+    <Content Include="pages\books\b4.jpg" />
+    <Content Include="pages\books\b5.jpg" />
+    <Content Include="pages\books\books.png" />
     <Content Include="bootstrap\css\bootstrap.min.css" />
     <Content Include="bootstrap\js\bootstrap.min.js" />
     <Content Include="bootstrap\js\jquery-3.2.1.slim.min.js" />
